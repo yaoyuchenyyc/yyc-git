@@ -29,6 +29,8 @@ public class User {
         System.out.println(new User().toString()+"5");
         System.out.println(new User().toString()+"a");
         System.out.println(new User().toString()+"a");
+        System.out.println(new User().toString()+"b");
+        System.out.println(new User().toString()+"b");
 
     }
 }
