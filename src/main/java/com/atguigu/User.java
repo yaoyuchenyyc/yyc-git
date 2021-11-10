@@ -24,6 +24,6 @@ public class User {
         System.out.println(new User().toString());
         System.out.println(new User().toString()+"2");
         System.out.println(new User().toString()+"3");
-        System.out.println(new User().toString()+"master");
+
     }
 }
