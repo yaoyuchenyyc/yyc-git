@@ -33,6 +33,9 @@ public class User {
         System.out.println(new User().toString()+"1");
         System.out.println(new User().toString()+"b");
         System.out.println(new User().toString()+"b");
+        System.out.println(new User().toString()+"b");
+        System.out.println(new User().toString()+"b");
+        System.out.println(new User().toString()+"b");
 
     }
 }
