@@ -20,6 +20,14 @@ public class User {
         this.name = name;
     }
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                '}';
+    }
+
     public static void main(String[] args) {
         System.out.println(new User().toString());
         System.out.println(new User().toString());
