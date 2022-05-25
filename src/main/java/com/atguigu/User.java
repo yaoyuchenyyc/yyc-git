@@ -33,7 +33,6 @@ public class User {
         System.out.println(new User().toString());
         System.out.println(new User().toString());
         System.out.println(new User().toString());
-//123456
-
+        System.out.println("sssss");
     }
 }
